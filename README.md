@@ -16,6 +16,13 @@ It includes smooth transitions, autoplay, and previous/next controls — perfect
   
 ## 📂 Project Structure
 
+## 👨‍💻 Author
+
+**Abdullah Omar Akram AL-Safar**  
+📺 [LEVEL UP IT - YouTube](https://www.youtube.com/@LEVEL_UP_IT)  
+🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-omar-2a552834b)  
+📬 [Email](mailto:abodyalsafar2009@gmail.com)
+
 ```bash
 project-folder/
 ├── index.html       # Main HTML page with slider markup
@@ -23,9 +30,3 @@ project-folder/
 ├── script.js        # JavaScript for logic and transitions
 └── README.md        # Project documentation 
 
-## 👨‍💻 Author
-
-**Abdullah Omar Akram AL-Safar**  
-📺 [LEVEL UP IT - YouTube](https://www.youtube.com/@LEVEL_UP_IT)  
-🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-omar-2a552834b)  
-📬 [Email](mailto:abodyalsafar2009@gmail.com)
