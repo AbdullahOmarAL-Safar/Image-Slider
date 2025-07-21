@@ -16,11 +16,12 @@ It includes smooth transitions, autoplay, and previous/next controls — perfect
   
 ## 📂 Project Structure
 
+```bash
 project-folder/
 ├── index.html       # Main HTML page with slider markup
 ├── style.css        # Embedded styling (within <style> tag)
 ├── script.js        # JavaScript for logic and transitions
-└── README.md        # Project documentation
+└── README.md        # Project documentation 
 
 ## 👨‍💻 Author
 
